@@ -1,4 +1,4 @@
-# ScriptEd Buzzfeed Quiz!
+x# ScriptEd Buzzfeed Quiz!
 
 ## Project Description
 Using JavaScript functions, you will build a quiz  app that will determine at which tech company the user will be placed. You'll need to have a way to provide the users different placements based on their specific input. If two users input the same answers, they should receive the same result. Follow the steps below to make your very own site! 
@@ -10,7 +10,7 @@ Make sure to check off your items as you complete them. [ ] => [x]
 - [x] Review your Starter Code and make sure you understand what code has already been written for you.
 ### Set-Up
 - [x] Go to the repository at https://github.com/ScriptEdcurriculum/quiz
-- [ ] Fork this repository to your github account and clone it to a new workspace
+- [x ] Fork this repository to your github account and clone it to a new workspace
 - [ ] Add, commit, and push your changes
 - [ ] Make your site live on gh-pages
 ### index.html

@@ -12,3 +12,11 @@ $(document).ready(function() {
     });
 
 });
+        var name = $("name").val();
+
+function season(name) {
+    if (name ==="winter"){
+        return 5
+    }
+
+    
