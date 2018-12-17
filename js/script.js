@@ -10,9 +10,13 @@ $(document).ready(function() {
         var q3Result = $("#question3").val();
         var totalScore;
     });
+function putResult( question1,question2,question3){
+    $("message").html ("", +"")
+}
 
-});
-        var name = $("name").val();
+
+
+});   var name = $("name").val();
 
 function season(name) {
     if (name ==="winter"){
